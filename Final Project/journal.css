@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("motivational quote.jpg");
+}
+
+.title {
+    height: auto;
+    width: 20%;
+    border: 2px solid black;
+    background: black;
+    color: white;
+    border-radius: 10%;
+    margin-left: 35%;
+    text-align: center;
+    
+
+}
+
+
+textarea{
+    background: #db8b12;
+    border-radius: 5%;
+    text-align: center;
+    outline: none;
+    float: left;
+    width: 33.3%;
+    padding: 40px;
+    margin: 40px;
+}
